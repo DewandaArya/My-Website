@@ -1,0 +1,23 @@
+html, body {
+	color: navajowhite;
+	background: #333;
+  height: 100%;
+  width: 100%;
+}
+
+p {
+    font-size: 20px;
+  }
+d {
+	font-size: 8px;
+}
+
+#open-widget-button {
+    background-color: #7289da;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
